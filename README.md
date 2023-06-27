@@ -33,7 +33,10 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 ![Login](assets/homepage_chefverse_pn.png)
 
 ### Searching UI
-![App Screenshot](assets/search_res_chefverse_pn.png)
+<p align="center">
+  <img src="https://github.com/tacticalyash/pract/blob/main/assets/homepage_chefverse_pn.png)" alt="Login">
+</p>
+
 
 ### Review 
 ![App Screenshot](assets/review_chefverse_pn.png)
