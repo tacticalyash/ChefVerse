@@ -29,17 +29,17 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 
 ## Screenshots
-### Login
-![Login](https://github.com/tacticalyash/pract/blob/main/assets/screenshots/su_login.png)
+### Homepage
+![Login](https://github.com/tacticalyash/pract/blob/main/assets/homepage_chefverse_pn.png)
 
-### Maps
-![App Screenshot](https://github.com/tacticalyash/pract/blob/main/assets/screenshots/su_maps.png)
+### Searching UI
+![App Screenshot](https://github.com/tacticalyash/pract/blob/main/assets/search_res_chefverse_pn.png)
 
-### Profile
-![App Screenshot](https://github.com/tacticalyash/pract/blob/main/assets/screenshots/sug_profile.png)
+### Review 
+![App Screenshot](https://github.com/tacticalyash/pract/blob/main/assets/review_chefverse_pn.png)
 
-### Fitness
-![App Screenshot](https://github.com/tacticalyash/pract/blob/main/assets/screenshots/su_fitness.png)
+### Info UI
+![App Screenshot](https://github.com/tacticalyash/pract/blob/main/assetsingredients_chefverse_pn.png)
 
 more screenshots available soon..
 
