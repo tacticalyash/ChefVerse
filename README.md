@@ -30,16 +30,16 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Screenshots
 ### Homepage
-![Login](https://github.com/tacticalyash/pract/blob/main/assets/homepage_chefverse_pn.png)
+![Login](assets/homepage_chefverse_pn.png)
 
 ### Searching UI
-![App Screenshot](https://github.com/tacticalyash/pract/blob/main/assets/search_res_chefverse_pn.png)
+![App Screenshot](assets/search_res_chefverse_pn.png)
 
 ### Review 
-![App Screenshot](https://github.com/tacticalyash/pract/blob/main/assets/review_chefverse_pn.png)
+![App Screenshot](assets/review_chefverse_pn.png)
 
 ### Info UI
-![App Screenshot](https://github.com/tacticalyash/pract/blob/main/assetsingredients_chefverse_pn.png)
+![App Screenshot](assetsingredients_chefverse_pn.png)
 
 more screenshots available soon..
 
